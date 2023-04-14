@@ -1,12 +1,11 @@
 
-# 技大　太郎の研究に関するリポジトリ
+# 山本　航平の研究に関するリポジトリ
 ## 研究題目: ○○に関する研究
 ## 予定
-- 20XX年
+- 2023年
   - ~~4月-5月 ○○の実験~~
   - ~~6月-11月 ○○の解析~~
-  - 12月 ○○発表
-- 20XY年
+- 2024年
   - 4月-5月 ○○の追加実験
 
 ## 参考文献
@@ -18,8 +17,7 @@
 ### 実験
 #### 使用機器
 - EMG (Delsys)
-- EEG (Biosemi, CGX)
-- fNIRS (FOIRE-3000)
+- EEG (Biosemi)
 - etc. 
 
 #### 実験プログラム
@@ -33,22 +31,12 @@
 
 ### 使用したライブラリ等
 #### 実験
-- OpenCV
-- Deep Lab Cut
-- Lab Streaming Layer (LSL)
 - Cogent (画面呈示用)
-- Psychopy (画面呈示用)
-- Psychtoolbox (画面呈示用)
 - LabView
-- DXライブラリ
 - etc.
 
 #### 解析
-- SPM8
 - scikit-learn
-- TensorFlow
-- LIBSVM
-- Statistics and Machine Learning Toolbox (MATLAB)
 - MNE
 - etc.
 
